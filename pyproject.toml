@@ -18,6 +18,7 @@ pyarrow = "^5.0.0"
 opencv-contrib-python = "^4.5.5"
 scikit-surprise = "^1.1.1"
 matplotlib = "^3.5.2"
+ipympl = "^0.9.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
